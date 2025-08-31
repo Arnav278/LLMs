@@ -1,2 +1,3 @@
 # LLMs
 This is my project on LLMs where I implemented a LLM transformer Neural Network from scratch that guides you through building a ChatGPT-style large language model using PyTorch. It helps with hands-on experience covering setup, attention, pretraining, fine-tuning, and text classification—no external LLM libraries needed.
+In this project I trained a LLM from scratch as I wanted it to perform several tasks which includes text generation, spam detection, chatbot, their will be additional two files previous chapters that deals with the preprocessing of the data and architecture. And gpt download that downloads a gpt-2 model from OpenAI library which we download and import to check our model perfomance comparison
